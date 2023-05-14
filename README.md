@@ -2,6 +2,14 @@
 #Aplicatie de management a campaniilor de strangere de fonduri
 #Student: Popescu Sorin; Grupa 1120 An1 SIMPRE
 
+#Link deployment in Vercel: 
+#MainPage: https://sorin-popescu-mg3sktsis-thorrrin.vercel.app/
+#Insertpage: https://sorin-popescu-mg3sktsis-thorrrin.vercel.app/insert
+#ChatPage: https://sorin-popescu-mg3sktsis-thorrrin.vercel.app/chat
+#GitHub repository: https://github.com/Thorrrin/SorinPopescu
+#Link prezentare aplicatie: https://youtu.be/6o0bwE2fLC4
+
+
 #Introducere:
 #Aplicația noastră de campanii de strângere de fonduri vă permite să vizualizați campanii de strângere de fonduri și să #faceți donații la acestea. În #plus, puteți să vă înregistrați ca utilizator și să creați campanii proprii de strângere #de fonduri.
 
