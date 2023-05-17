@@ -8,7 +8,9 @@
 #ChatPage: https://sorin-popescu-mg3sktsis-thorrrin.vercel.app/chat
 #GitHub repository: https://github.com/Thorrrin/SorinPopescu
 #Link prezentare aplicatie: https://youtu.be/6o0bwE2fLC4
-
+#Link AWS: http://3.74.8.85/
+#Link AWS: http://3.74.8.85/insert
+#Link AWS: http://3.74.8.85/chat
 
 #Introducere:
 #Aplicația noastră de campanii de strângere de fonduri vă permite să vizualizați campanii de strângere de fonduri și să #faceți donații la acestea. În #plus, puteți să vă înregistrați ca utilizator și să creați campanii proprii de strângere #de fonduri.
